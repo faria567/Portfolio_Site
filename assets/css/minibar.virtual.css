@@ -388,10 +388,10 @@
 
 /* About */
 .page-about .img-place {
-    margin: 16px auto;
+    margin: 10px auto;
     width: 250px;
     height: 250px;
-    border-radius: 50%;
+    border-radius: 80%;
 }
 
 @media (min-width: 600px) {
